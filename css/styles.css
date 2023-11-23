@@ -1,0 +1,108 @@
+body {
+    font-family: "Roboto";
+    background-color: #FFFFFF;
+    font-style: normal;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 2%;
+}
+.logo {font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+    color:#2E2F42;
+}
+.logo .accent {
+color: #4D5AE5;
+}
+
+.tagline {
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #2E2F42;
+    font-family: Roboto;
+    font-style: normal;
+}
+.tagline h1 {
+        font-size: 56px;
+        font-weight: 700;
+        line-height: 60px;
+        letter-spacing: 2%;
+    }
+.btn {
+font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 4%;
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+}
+.advantages {
+
+}
+.portfolio { text-align: center;
+
+}
+ul {
+    list-style: none;
+}
+
+p {
+    font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.32px;
+        color: #434455;
+}
+
+h3 {
+    font-family: Roboto;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.4px;
+        color: #2E2F42;
+}
+
+h2 { font-family: Roboto;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 40px;
+        letter-spacing: 0.72px;
+        text-transform: capitalize;
+}
+
+.team {
+    background-color: #F4F4FD;
+    text-align: center;
+}
+
+.ftr {
+    background-color: #2E2F42;
+    color: #F4F4FD;
+}
+
+.contacts {
+    font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px;
+        /* 150% */
+        letter-spacing: 0.32px;
+}
+
+.site-nav {
+    font-family: Roboto;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.32px;
+        color:#2E2F42;
+}
