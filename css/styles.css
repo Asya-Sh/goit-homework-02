@@ -8,7 +8,7 @@ body {
     letter-spacing: 2%;
 }
 
-.logo {font-family: Raleway;
+.logo {font-family: "Raleway";
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
@@ -114,7 +114,7 @@ footer {
 }
 
 footer .logo {
-            font-family: Raleway;
+            font-family: "Raleway";
             font-size: 18px;
             font-style: normal;
             font-weight: 700;
