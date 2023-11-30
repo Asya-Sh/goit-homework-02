@@ -78,7 +78,7 @@ color: #2E2F42;
     background-color: #404BBF;
 }
 
-.advantages h3 {
+.advantages-name {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -129,7 +129,7 @@ ul {
     color: #434455;
 }
 
-.portfolio h2 {
+.title {
     font-size: 36px;
     font-weight: 700;
     line-height: 1.5;
@@ -164,15 +164,15 @@ footer {
 }
 
 footer .logo-ftr {
-            font-family: "Raleway" sans-serif;
+            font-family: "Raleway", sans-serif;
             font-size: 18px;
             font-style: normal;
             font-weight: 700;
-            line-height: 21px;
+            line-height: 1.17;
             letter-spacing: 0.54px;
             text-transform: uppercase;
-            line-height: 1.17
-            color: #F4F4FD;
+            line-height: 1.17;
+            color: #4d5ae5;
         }
 footer .logo-accent {
 color: #f4f4fd;
