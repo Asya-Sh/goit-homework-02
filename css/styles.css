@@ -103,28 +103,37 @@ ul {
         line-height: 1.11;
 }
 
-.team-position {
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.32px;
-    color: #434455;
+.team h2 {
+    font-size: 36px;
+        font-weight: 700;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        line-height: 1.11;
+        color: #2E2F42;
 }
 
 .team-name {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
     color: #2E2F42;
-    
+    background-color: #FFFFFF
+}
+.team-position {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 
-h2 {
+.portfolio h2 {
     font-size: 36px;
     font-weight: 700;
-    line-height: 40px;
-    letter-spacing: 0.72px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
     line-height: 1.11;
     color: #2E2F42;
@@ -133,11 +142,28 @@ h2 {
 .portfolio { text-align: center;
 }
 
+.portfolio-name {
+    font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+
+.portfolio-work {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
 footer {
     background-color: #2E2F42;
 }
 
-footer .logo {
+footer .logo-ftr {
             font-family: "Raleway" sans-serif;
             font-size: 18px;
             font-style: normal;
@@ -145,9 +171,14 @@ footer .logo {
             line-height: 21px;
             letter-spacing: 0.54px;
             text-transform: uppercase;
+            line-height: 1.17
             color: #F4F4FD;
         }
-
+footer .logo-accent {
+color: #f4f4fd;
+}
 .ftr {
     color: #F4F4FD;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
