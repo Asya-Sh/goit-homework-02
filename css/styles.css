@@ -96,7 +96,7 @@ ul {
     list-style: none;
 }
 
-.our-team {
+.team {
     background-color: #F4F4FD;
     text-align: center;
     text-transform: capitalize;
@@ -139,7 +139,7 @@ ul {
     color: #2E2F42;
 }
 
-.portfolio-team { text-align: center;
+.portfolio { text-align: center;
 }
 
 .portfolio-name {
