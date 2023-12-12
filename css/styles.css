@@ -95,7 +95,9 @@ color: #2E2F42;
 ul {
     list-style: none;
 }
-
+.team-list {
+    background-color: #FFFFFF;
+}
 .team {
     background-color: #F4F4FD;
     text-align: center;
